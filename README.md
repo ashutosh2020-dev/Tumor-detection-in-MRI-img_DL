@@ -1,1 +1,1 @@
-# sales-forecast-of-shops-through-ML-
+# tumor-detection-in-MRI-img - segmentation task in DL
